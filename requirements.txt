@@ -1,0 +1,8 @@
+# Core dependencies for video and image processing
+opencv-python>=4.5.0  # Video playback and frame extraction
+numpy>=1.19.0          # Numerical operations for image processing
+Pillow>=8.0.0          # Image manipulation and saving
+
+# Optional: For working with Jupyter notebooks locally
+# Not required for main.py workflow, but useful if you want to edit notebooks
+jupyter>=1.0.0
